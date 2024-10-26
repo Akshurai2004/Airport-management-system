@@ -13,11 +13,4 @@ The Airport Management System is a terminal-based application developed in C. It
 - **C Compiler:** GCC (GNU Compiler Collection) or any standard C compiler
 - **Operating System:** Windows, Linux, or macOS
 
-## Setup Instructions
-1. **Clone the repository:**
-   ```bash
-   gcc main.c -o airport_management
-   ./airport_management
-
-```
 
